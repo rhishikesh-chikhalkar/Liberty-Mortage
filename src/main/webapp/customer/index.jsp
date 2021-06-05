@@ -45,7 +45,7 @@ body {
 				<h1 class="display-5 text-center text-dark text-muli">Customer
 					Registration</h1>
 				<!-- Registration form starts -->
-				<form class="p-1" action="register" method="post"
+				<form class="p-1" action="savedata" method="post"
 					oninput='confirm_password.setCustomValidity(confirm_password.value != password.value ? "Passwords should be match." : "")'>
 					<!-- First and Last name -->
 					<div class="form-row p-1">

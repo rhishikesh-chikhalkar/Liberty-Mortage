@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Admin Login</title>
-    <link rel="stylesheet" href="login_style.css">
+    <link rel="stylesheet" href="index_style.css">
     <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js?ver=1.4.2'></script>
   </head>
   <body>
